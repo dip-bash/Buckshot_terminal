@@ -25,3 +25,10 @@ python -u ./buckshot_terminal
 Technologies used in the project:
 
 *   Python 3.10.12
+
+<h2>Upcoming Updates</h2>
+
+- [] Add a story
+- [] Add more levels
+- [] Add visuals
+- [] Add more options
