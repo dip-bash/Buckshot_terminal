@@ -16,17 +16,17 @@ def RoundOne():
 
         if(UserChoice=="y" or UserChoice=="Y"):
             if(bullets[i]=="T"):
-                print("+> Round is full\nYou lose my friend...now your soul is mine....XD\n")
+                print("CLICK!!!!!!!\n+> Round is full\nYou lose my friend...now your soul is mine....XD\n")
                 exit()
             elif(bullets[i]=="F"):
-                print("The round is empty....\nnow the next turn is also yours:)\n")
+                print("CLICK!!!!!!!\n+> Round is empty....\nnow the next turn is also yours:)\n")
                 i+=1
         elif(UserChoice=="n" or UserChoice=="N"):
             if(bullets[i]=="T"):
-                print("+> Round is full\nYou won Round One..... \n")
+                print("CLICK!!!!!!!\n+> Round is full\nYou won Round One..... \n")
                 exit()
             elif(bullets[i]=="F" and bullets[i]!=2):
-                print("The round is empty.....\n")
+                print("CLICK!!!!!!!\n+> Round is empty.....\n")
                 if(RemainingBullets>1):
                     print(f">> {RemainingBullets} << bullets are remainning")
                 else:
@@ -37,10 +37,10 @@ def RoundOne():
                     print("You lose my friend...now your soul is mine....XD\n")
                     exit()
                 elif(bullets[i]=="F"):
-                    print("round is empty...now your turn")
+                    print("CLICK!!!!!!!\n+> Round is empty...now your turn")
                     i+=1
             else:
-                print("round is empty..you won....because that's the last bullet")
+                print("CLICK!!!!!!!\n+> Round is empty..you won....because that's the last bullet")
                 
             
 
