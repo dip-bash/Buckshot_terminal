@@ -4,7 +4,9 @@
 
 <p id="description">[THIS GAME IS INSPIRED BY "Buckshot Roulette" GAME ] Ever felt like you're stuck in a bad situation? Try this! Buckshot Terminal is a quick text game where you face a shotgun. Shoot yourself or your opponent - the choice is yours! Will you gamble on your luck or take the safe bet? Each shot is a gamble and there's only one way out alive. Test your nerve in Buckshot Terminal! </p>
 - 🔹 The Setup: The Dealer loads the shotgun with a mix of live shells and blanks. The odds are unknown.
+
 - 🔹 The Rounds: The game unfolds over three intense rounds.
+  
 - 🔹 Your Choices:
      Shoot the Dealer: Take a risky shot and hope the Dealer gets blasted.
      Chicken Out: Aim the shotgun at yourself and hope for a blank.
