@@ -28,7 +28,7 @@ Technologies used in the project:
 
 <h2>Upcoming Updates</h2>
 
-- [] Add a story
-- [] Add more levels
-- [] Add visuals
-- [] Add more options
+- [ ] Add a story
+- [ ] Add more levels
+- [ ] Add visuals
+- [ ] Add more options
