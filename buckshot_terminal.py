@@ -4,7 +4,7 @@ def RoundOne():
     bullets = ["T","F","F"]    
     random.shuffle( bullets )
     i=0
-    while i >= 0:
+    while i <= 2:
         RemainingBullets=3-i
 
         if(RemainingBullets>1):
